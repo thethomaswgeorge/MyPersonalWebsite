@@ -30,7 +30,7 @@
     <meta name="msapplication-square70x70logo" content="img/mstile-70x70.png" />
     <meta name="msapplication-square150x150logo" content="img/mstile-150x150.png" />
     <meta name="msapplication-wide310x150logo" content="img/mstile-310x150.png" />
-    <meta name="msapplication-square310x310logo" content="img/mstile-310x310.png" />
+    <meta name="msapplication-square310x310logo" content="img/mstile-70x70.png" />
 </head>
 
 <body>
