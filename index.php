@@ -30,7 +30,7 @@
     <meta name="msapplication-square70x70logo" content="img/mstile-70x70.png" />
     <meta name="msapplication-square150x150logo" content="img/mstile-150x150.png" />
     <meta name="msapplication-wide310x150logo" content="img/mstile-310x150.png" />
-    <meta name="msapplication-square310x310logo" content="img/mstile-70x70.png" />
+    <meta name="msapplication-square70x70logo" content="img/mstile-70x70.png" />
 </head>
 
 <body>
@@ -79,7 +79,7 @@
 					</ul>
 				</div>
                 <div class="center-div center" id="profile">
-                    <img src="img/12646866_439111339619677_7770034365075955010_o.jpg" id="my-image" alt="Thomas George Profile">
+                    <img src="img/myProfile.jpg" id="my-image" alt="Thomas George Profile">
                     <h1>Thomas George</h1>
                     <h2>Full-Stack Web Developer</h2>
                 </div>
