@@ -6,31 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Karla|Roboto" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="apple-touch-icon-152x152.png"/>
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="apple-touch-icon-60x60.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="apple-touch-icon-120x120.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="apple-touch-icon-76x76.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png" />
-    <link rel="icon" type="image/png" href="favicon-196x196.png" sizes="196x196" />
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="img/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="img/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="img/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="img/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="img/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="img/favicon-196x196.png" sizes="196x196" />
     <link rel="stylesheet" type="text/css" href="style/style.css">
     <link rel="stylesheet" type="text/css" href="style/mobile.css">
     <meta name="theme-color" content="#222">
-    <link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="img/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="img/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="img/favicon-16x16.png" sizes="16x16" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
-    <link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128" />
+    <link rel="icon" type="image/png" href="img/favicon-128.png" sizes="128x128" />
     <meta name="application-name" content="&nbsp;"/>
     <meta name="msapplication-TileColor" content="#FFFFFF" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-    <meta name="msapplication-TileImage" content="mstile-144x144.png" />
-    <meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
-    <meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
-    <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
-    <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+    <meta name="msapplication-TileImage" content="img/mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="img/mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="img/mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="img/mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="img/mstile-310x310.png" />
 </head>
 
 <body>
@@ -89,7 +89,7 @@
     </div>
     <div id="hidden-info" class="hidden">
         <div class="hidden project-display" id="ergo-box">
-            <div style="background-image:url('ergo.png')" class="left-div">
+            <div style="background-image:url('img/ergo.png')" class="left-div">
             </div>
             <div class="right-div">
                 <h2>Ergo</h2>
@@ -99,7 +99,7 @@
             </div>
         </div>
         <div class="hidden project-display" id="topnotch-box">
-            <div style="background-image:url('New Project(1).png')" class="left-div">
+            <div style="background-image:url('img/New Project(1).png')" class="left-div">
 
             </div>
             <div class="right-div">
@@ -340,7 +340,7 @@
     <div id="hidden-projects">
         <div id="urge-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('New Project (6).png')" class="logo-info">
+                <div style="background-image:url('img/New Project (6).png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -352,7 +352,7 @@
         </div>
         <div id="validate-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('New Project (7).png')" class="logo-info">
+                <div style="background-image:url('img/New Project (7).png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -365,7 +365,7 @@
         </div>
         <div id="bibliotaf-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('New Project (4).png')" class="logo-info">
+                <div style="background-image:url('img/New Project (4).png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -378,7 +378,7 @@
         </div>
         <div id="kreadiv-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('New Project (5).png')" class="logo-info">
+                <div style="background-image:url('img/New Project (5).png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -390,7 +390,7 @@
         </div>
         <div id="mla-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('New Project (3).png')" class="logo-info">
+                <div style="background-image:url('img/New Project (3).png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -402,7 +402,7 @@
         </div>
         <div id="rotg-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('rotg.jpg')" class="logo-info">
+                <div style="background-image:url('img/rotg.jpg')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -415,7 +415,7 @@
         </div>
         <div id="merge-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('New Project (2).png')" class="logo-info">
+                <div style="background-image:url('img/New Project (2).png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -427,7 +427,7 @@
         </div>
         <div id="reach-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('reach.png')" class="logo-info">
+                <div style="background-image:url('img/reach.png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -439,7 +439,7 @@
         </div>
         <div id="ttl-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('17854922_1251982241521936_8519234958610297504_o.jpg')" class="logo-info">
+                <div style="background-image:url('img/17854922_1251982241521936_8519234958610297504_o.jpg')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -452,7 +452,7 @@
         </div>
         <div id="topnotch-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('New%20Project(1).png')" class="logo-info">
+                <div style="background-image:url('img/New%20Project(1).png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -466,7 +466,7 @@
         </div>
         <div id="cruise-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('cruise2.png')" class="logo-info">
+                <div style="background-image:url('img/cruise2.png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -478,7 +478,7 @@
         </div>
         <div id="moolah-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('moolah.png')" class="logo-info">
+                <div style="background-image:url('img/moolah.png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -490,7 +490,7 @@
         </div>
         <div id="glory-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('New%20Project%20(1).png')" class="logo-info">
+                <div style="background-image:url('img/New%20Project%20(1).png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
@@ -502,7 +502,7 @@
         </div>
         <div id="ergo-div" class="hidden project-info">
             <div class="center-div">
-                <div style="background-image:url('ergo.png')" class="logo-info">
+                <div style="background-image:url('img/ergo.png')" class="logo-info">
 
                 </div>
                 <div class="logo-text">
