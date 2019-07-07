@@ -57,7 +57,7 @@
         <div class="overlay">
             <div class="center-div">
 				<span id="head-logo">
-					<img src="mstile-310x310.png" alt="Thomas George Portfolio">
+					<img src="img/mstile-310x310.png" alt="Thomas George Portfolio">
 				</span>
                 <div id="head-ul-span" class="right non-mobile">
 					<ul >
@@ -79,7 +79,7 @@
 					</ul>
 				</div>
                 <div class="center-div center" id="profile">
-                    <img src="12646866_439111339619677_7770034365075955010_o.jpg" id="my-image" alt="Thomas George Profile">
+                    <img src="img/12646866_439111339619677_7770034365075955010_o.jpg" id="my-image" alt="Thomas George Profile">
                     <h1>Thomas George</h1>
                     <h2>Full-Stack Web Developer</h2>
                 </div>
@@ -257,14 +257,14 @@
         </div>
         <div id="current" class="center center-div">
             <a href="#ergo-div" title="More Information">
-                <div class="project-box" id="ergo" style="background-image: url('ergo.png')">
+                <div class="project-box" id="ergo" style="background-image: url('img/ergo.png')">
                     <i class="fab fa-github-alt onGitHub light" style="position: absolute;bottom: 0;right: 0;font-size: 35px;box-sizing: border-box;margin: 6px 9px;/*! float: right; */"></i>
                 </div>
             </a><a href="#glory-div" title="More Information">
-                <div class="project-box" id="glory" style="background-image: url('New Project (1).png')">
+                <div class="project-box" id="glory" style="background-image: url('img/New Project (1).png')">
                 </div>
             </a><a href="#moolah-div" title="More Information">
-                <div class="project-box" id="moolah" style="background-image: url('moolah.png')">
+                <div class="project-box" id="moolah" style="background-image: url('img/moolah.png')">
                 </div>
             </a>
         </div>
@@ -274,61 +274,61 @@
         </div>
         <div id="work"><!--
 			<a href="#cruise-div" title="More Information">
-				<div class="project-box" id="cruise" style="background-image: url('cruise2.png')">
+				<div class="project-box" id="cruise" style="background-image: url('img/cruise2.png')">
 				</div>
 			</a>-->
             <a href="#topnotch-div" title="More Information">
-                <div class="project-box" id="topnotch" style="background-image: url('New Project(1).png')">
+                <div class="project-box" id="topnotch" style="background-image: url('img/New Project(1).png')">
 
                 </div>
             </a>
             <a href="#ttl-div" title="More Information">
-                <div class="project-box" id="ttl" style="background-image: url('17854922_1251982241521936_8519234958610297504_o.jpg');">
+                <div class="project-box" id="ttl" style="background-image: url('img/17854922_1251982241521936_8519234958610297504_o.jpg');">
 
                 </div>
             </a>
             <a href="#reach-div" title="More Information">
-                <div class="project-box" id="reach" style="background-image: url('reach.png')">
+                <div class="project-box" id="reach" style="background-image: url('img/reach.png')">
 
                 </div>
             </a>
             <a href="#merge-div" title="More Information">
-                <div class="project-box" id="merge" style="background-image: url('New Project (2).png')">
+                <div class="project-box" id="merge" style="background-image: url('img/New Project (2).png')">
 
                 </div>
             </a>
             <a href="#rotg-div" title="More Information">
-                <div class="project-box" id="rotg" style="background-image: url('rotg.jpg')">
+                <div class="project-box" id="rotg" style="background-image: url('img/rotg.jpg')">
 
                 </div>
             </a><!--
 			<a href="#mla-div" title="More Information">
-				<div class="project-box" id="mla" style="background-image: url('New Project (3).png')">
+				<div class="project-box" id="mla" style="background-image: url('img/New Project (3).png')">
 
 				</div>
 			</a>
 			<a href="#kreadiv-div" title="More Information">
-				<div class="project-box" id="kreadiv" style="background-image: url('New Project (5).png')">
+				<div class="project-box" id="kreadiv" style="background-image: url('img/New Project (5).png')">
 
 				</div>
 			</a>-->
             <a href="#bibliotaf-div" title="More Information">
-                <div class="project-box" id="bibliotaf" style="background-image: url('New Project (4).png')">
+                <div class="project-box" id="bibliotaf" style="background-image: url('img/New Project (4).png')">
 
                 </div>
             </a>
             <a href="#validate-div" title="More Information">
-                <div class="project-box" id="validate" style="background-image: url('New Project (7).png')">
+                <div class="project-box" id="validate" style="background-image: url('img/New Project (7).png')">
 
                     <i class="fab fa-github-alt onGitHub light" style="position: absolute;bottom: 0;right: 0;font-size: 35px;box-sizing: border-box;margin: 6px 9px;/*! float: right; */"></i>
                 </div>
             </a>
             <a href="#urge-div" title="More Information">
-                <div class="project-box" id="urge" style="background-image: url('New Project (6).png')">
+                <div class="project-box" id="urge" style="background-image: url('img/New Project (6).png')">
 
                 </div>
             </a>
-            <div class="project-box" id="heap" style="background-image: url('heap2.png')">
+            <div class="project-box" id="heap" style="background-image: url('img/heap2.png')">
 
             </div>
             <!--
