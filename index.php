@@ -134,11 +134,12 @@
         			<small class="center">May 2019 - Present</small>
         		</div>
                 <div class="center">
-                    <b>Tools Used:</b> Visual Studio, Github, HTML5, PHP7, CSS, Javascript, jQuery
+                    <b>Tools Used:</b> Visual Studio Code, Github, HTML5, PHP7, CSS, Javascript, jQuery
                 </div>
                 <ul>
                     <li>Work with an established team of developers and interact with product managers, marketing teams and designers</li>
                     <li>Makes recommendations towards the development of new code or reuse of existing code</li>
+                    <li>Oversee a group of developers to make sure projects and tasks get completed in a timely manner</li>
                 </ul>
         	</div>
             <div class="job-row">
