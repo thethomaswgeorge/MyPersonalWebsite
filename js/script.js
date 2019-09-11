@@ -63,7 +63,7 @@
              changeTheme('#22313f', '#51af61');
              break;
          case "ttl":
-             changeTheme('#213140', '#fff');
+             changeTheme('#263442', '#fff');
              break;
          case "reach":
              changeTheme('linear-gradient(to right, #4a118f , #0897cc)', '#fff');
@@ -114,5 +114,4 @@
  function changeTheme(mainColor, linkColor) {
      document.getElementById("container").style.background = mainColor;
      document.getElementById("container").style.color = linkColor;
-
  }
